@@ -1,0 +1,21 @@
+{
+  "name": "practice-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Avixph/practice-api.git",
+  "author": "Angel B. Fernandez <25628695+Avixph@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  },
+  "browserslist": [
+    "last 1 chrome version"
+  ]
+}
